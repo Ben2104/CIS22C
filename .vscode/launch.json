@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hoangkhoi/Desktop/Winter2023/22C",
+      "program": "/Users/hoangkhoi/Desktop/Winter2023/22C/build/Debug/outDebug"
+    }
+  ]
+}
